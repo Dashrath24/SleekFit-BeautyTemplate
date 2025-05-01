@@ -36,3 +36,31 @@ This project was a real-world assignment from a company that trusted me to deliv
 
 ## 📂 Folder Structure
 
+sleek-fit-beauty/
+├── index.html
+├── README.md 
+├── assets/ 
+      ├── css/ 
+             ├── style.css 
+             ├── media.css 
+      ├── favicon_io/ 
+             └── [favicon files] 
+      ├── images/  
+             └── [image assets] 
+      ├── video/ │ 
+             └── [video files ] 
+└── script.js
+
+
+🚀 How to Use
+
+1️⃣ Clone the repository:
+
+git clone https://github.com/Dashrath24/SleekFit-BeautyTemplate
+
+2️⃣ Open index.html in your browser.
+
+3️⃣ Explore the elegant jewelry website.
+
+
+📜 License This project is open-source and free to use. 🚀
