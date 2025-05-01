@@ -36,22 +36,11 @@ This project was a real-world assignment from a company that trusted me to deliv
 
 ## 📂 Folder Structure
 
+
 sleek-fit-beauty/
-├── index.html  
-
-├── README.md 
-
-├── assets/  
-      ├── css/ 
-             ├── style.css 
-             ├── media.css 
-      ├── favicon_io/ 
-             └── [favicon files] 
-      ├── images/  
-             └── [image assets] 
-      ├── video/ │ 
-             └── [video files ] 
-└── script.js
+├── index.html
+├── README.md
+└── assets/ ├── css/ │ ├── style.css │ └── media.css ├── favicon_io/ │ └── [favicon files] ├── images/ │ └── [image assets] ├── video/ │ └── [video files] └── script.js
 
 
 🚀 How to Use
