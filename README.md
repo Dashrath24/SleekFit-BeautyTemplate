@@ -37,9 +37,11 @@ This project was a real-world assignment from a company that trusted me to deliv
 ## 📂 Folder Structure
 
 sleek-fit-beauty/
-├── index.html
+├── index.html  
+
 ├── README.md 
-├── assets/ 
+
+├── assets/  
       ├── css/ 
              ├── style.css 
              ├── media.css 
